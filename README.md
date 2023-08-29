@@ -8,10 +8,10 @@ Consulta el archivo Readme en la rama main para obtener instrucciones e informac
 Aprende a dominar los test unitarios en Java con este curso. Descubre cómo escribir y hacer funcionar test unitarios efectivos en tus proyectos. Exploraremos los elementos necesarios para su implementación y entenderemos su importancia. Centrados principalmente en JUnit 5, también abordaremos conceptos de Mockito y profundizaremos en la teoría y la historia detrás de los test unitarios. Potencia tus habilidades de programación y asegúrate de que tu trabajo esté completo con test unitarios sólidos. ¡No pierdas la oportunidad de mejorar tus proyectos Java!
 
 ## Instrucciones
-Este repositorio tiene ramas (branches) para cada uno de los vídeos del curso. Puedes usar el menú emergente de la rama en GitHub para cambiar a una rama específica y echar un vistazo al curso en esa etapa, o puedes añadir `/tree/nombre_de_la_rama` a la URL para ir a la rama a la que quieres acceder.
+Este repositorio tiene un historial con un commit por cada uno de los vídeos del curso. Puedes verlo clicando en el enlace que indica el número de commits, o puedes añadir `/commits/main` a la URL para verlo.
 
-## Ramas
-Las ramas están estructuradas para corresponder a los vídeos del curso. La convención de nomenclatura es Capítulo#_Vídeo#. Por ejemplo, la rama denominada `02_03` corresponde al segundo capítulo y al tercer vídeo de ese capítulo. Algunas ramas tendrán un estado inicial y otro final. Están marcadas con las letras i («inicio») y f («fin»). La branch i tiene el mismo código que al principio del vídeo. La branch f tiene el mismo código que al final del vídeo. La rama master tiene el estado final del código que aparece en el curso.
+## Commits
+Los commits están ordenados de más nuevo a más antiguo. Cada mensaje de commit empieza con la nomenclatura Capítulo#_Vídeo#. Por ejemplo, el commit que empieza por `02_05` corresponde al segundo capítulo y al quinto vídeo de ese capítulo. Todos los commits se corresponden al resultado final de un capítulo, así que si quieres coger el código correspondiente al principio del vídeo, tienes que seleccionar el commit anterior.
 
 ## Instalación
 Este curso está integrado con GitHub Codespaces, un entorno de desarrollo instantáneo alojado en la nube que ofrece toda la funcionalidad de tu IDE favorito sin tener que configurar una máquina local. Con Codespaces puedes practicar en cualquier lugar y desde cualquier dispositivo, de modo que no necesitas instalar ninguna otra herramienta. Aprende a dar los primeros pasos con el vídeo “Cómo usar GitHub Codespaces con este curso”.   
