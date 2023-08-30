@@ -14,6 +14,13 @@ Este repositorio tiene un historial con un commit por cada uno de los vídeos de
 Los commits están ordenados de más nuevo a más antiguo. Cada mensaje de commit empieza con la nomenclatura Capítulo#_Vídeo#. Por ejemplo, el commit que empieza por `02_05` corresponde al segundo capítulo y al quinto vídeo de ese capítulo. Todos los commits se corresponden al resultado final de un capítulo, así que si quieres coger el código correspondiente al principio del vídeo, tienes que seleccionar el commit anterior.
 
 ## Instalación
+
+1. Para utilizar estos archivos de ejercicios, debes tener descargado lo siguiente:
+	- [software]
+	
+2. Clona este repositorio en tu máquina local usando la Terminal (macOS) o CMD (Windows), o una herramienta GUI como SourceTree.
+3. [Instrucciones específicas del curso].
+   
 Este curso está integrado con GitHub Codespaces, un entorno de desarrollo instantáneo alojado en la nube que ofrece toda la funcionalidad de tu IDE favorito sin tener que configurar una máquina local. Con Codespaces puedes practicar en cualquier lugar y desde cualquier dispositivo, de modo que no necesitas instalar ninguna otra herramienta. Aprende a dar los primeros pasos con el vídeo “Cómo usar GitHub Codespaces con este curso”.   
 
 ### Docente
